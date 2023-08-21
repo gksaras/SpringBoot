@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<link th:href="@{/css/style.css}" rel="stylesheet"/>
+<script type="text/javascript" th:src="@{/js/function.js}">
+
+</script>
+<title>Marvel</title>
+</head>
+<body onload="hello()">
+	<h1>SpringMaster</h1>
+	<h2>ThymeLeaf Design</h2>
+	<table border="1" class="table">
+		<thead>
+			<tr>
+				<th>Phase</th>
+				<th>Movie</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr th:each="m:${marvel}">
+				<td th:text="${m.phase}"></td>
+				<td th:text="${m.movie}"></td>
+			</tr>
+		</tbody>
+
+	</table>
+</body>
+</html>

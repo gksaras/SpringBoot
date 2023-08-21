@@ -1,0 +1,16 @@
+2023-07-28 14:46:40,364 INFO  MarvelController:16 - [] [getMessage] info message
+2023-07-28 14:46:40,367 WARN  MarvelController:17 - [] [getMessage] warn message
+2023-07-28 14:46:40,367 ERROR MarvelController:18 - [] [getMessage] error message
+2023-07-28 14:46:40,368 DEBUG MarvelController:19 - [] [getMessage] debug message
+2023-07-28 14:47:49,953 INFO  MarvelController:16 - [] [getMessage] info message
+2023-07-28 14:47:49,953 WARN  MarvelController:17 - [] [getMessage] warn message
+2023-07-28 14:47:49,955 ERROR MarvelController:18 - [] [getMessage] error message
+2023-07-28 14:47:49,955 DEBUG MarvelController:19 - [] [getMessage] debug message
+2023-07-28 14:48:41,448 INFO  MarvelController:16 - [] [getMessage] info message
+2023-07-28 14:48:41,458 WARN  MarvelController:17 - [] [getMessage] warn message
+2023-07-28 14:48:41,459 ERROR MarvelController:18 - [] [getMessage] error message
+2023-07-28 14:48:41,460 DEBUG MarvelController:19 - [] [getMessage] debug message
+2023-07-28 14:48:42,233 INFO  MarvelController:16 - [] [getMessage] info message
+2023-07-28 14:48:42,235 WARN  MarvelController:17 - [] [getMessage] warn message
+2023-07-28 14:48:42,235 ERROR MarvelController:18 - [] [getMessage] error message
+2023-07-28 14:48:42,236 DEBUG MarvelController:19 - [] [getMessage] debug message
